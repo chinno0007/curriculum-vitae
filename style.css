@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(184, 236, 219);
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.profile-img {
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 10px;
+    float: left;
+}
+
+.header-bio {
+    float: left;
+    padding: 30px;
+    color: navy;
+}
+
+.header-contact {
+    float: right;
+    padding: 30px;
+}
+
+.header-contact a {
+    text-decoration: none;
+    color: navy;
+}
+
+.header-contact a:hover {
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+
+.div-clear {
+    clear: both;
+}
+
+hr {
+    border: 3px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
