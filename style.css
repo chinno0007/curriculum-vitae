@@ -55,3 +55,176 @@ hr {
     margin: 20px auto;
     border-bottom: none;
 }
+
+
+
+/* Main Start */
+
+
+.personal-section {}
+
+.content {
+    display: flex;
+
+}
+
+.left-div {
+    width: 30%;
+    float: left;
+
+}
+
+.right-div {
+    width: 70%;
+    float: left;
+
+}
+
+.common-hr {
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20 auto;
+}
+
+
+/* Work Experiance */
+
+
+.work-experiance {}
+
+.work-ex {
+    display: flex;
+
+}
+
+.work-title {
+    width: 30%;
+    float: left;
+}
+
+.work-sub {
+    width: 70%;
+    float: left;
+}
+
+
+/* Section 3 */
+
+.skills {}
+
+.key-skills {
+
+    display: flex;
+}
+
+.key {
+    width: 30%;
+    float: left;
+}
+
+.key2 {
+
+    width: 70%;
+    float: left;
+}
+
+
+/* education */
+
+.Education {
+    display: flex;
+
+}
+
+.edu {
+    width: 30%;
+    float: left;
+}
+
+.graduation {
+    display: flex;
+    width: 70%;
+}
+
+.university {
+
+    float: left;
+    width: 33%;
+}
+
+.diploma {
+
+    float: left;
+    width: 33%;
+}
+
+.school {
+
+    float: right;
+    width: 33%;
+}
+
+/* Honors and awards */
+
+.Awards {
+    display: flex;
+}
+
+.honors {
+    width: 30%;
+    float: left;
+}
+
+.honors2 {
+    width: 70%;
+    float: left;
+}
+
+/* Referance */
+
+/* .Referance {
+    display: flex;
+} */
+
+.referanc {
+    width: 30%;
+    float: left;
+}
+
+.professor {
+    display: flex;
+    width: 70%;
+
+}
+
+.nihaibin {
+
+    width: 50%;
+    float: left;
+}
+
+.felix {
+    width: 50%;
+    float: right;
+}
+
+/* Footer */
+.bottom {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.bottom a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+
+
+}
+
+.bottom p {
+    color: white;
+    margin-top: 20px;
+}
